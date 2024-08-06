@@ -1,0 +1,35 @@
+Home work - 
+1. Leetcode Problems
+2. Leetcode Problems
+3. NPM Package
+4. Web Scrapping
+5. Building a Random Image API in Node.js
+6. Implementing Request Logging Middleware in Node.js with Express
+
+Class Assignment -
+1. Make a blog about 3-tier architecture
+2. Todo using FS and Path module
+3. Explain npm website and package.json & create npm package
+4. Web Scrapping of a website
+5. Random Joke API 
+6. Simple Authentication Middleware
+
+Educator Task - 
+URL Shortner Application
+
+Weekly Test - 
+1. Leetcode Problems
+2. Web Scrapping using Puppeteer
+3.  Error Handling Middleware for User Registration
+4. Email sending application
+
+Major Assignment- 
+Ecommerce Application
+
+Major Projects - 
+1. Job Posting Application
+2. File Sharing Application
+3. Blogging Website
+
+MCT - 
+Threads Clone
